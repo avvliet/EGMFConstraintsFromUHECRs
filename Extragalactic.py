@@ -1,3 +1,4 @@
+# CRPropa steering file for the propagation from sources to Earth including deflections in random EGMFs
 import sys
 from crpropa import *
 from pylab import *
